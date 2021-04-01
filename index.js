@@ -19,6 +19,8 @@ const generateHTML = (answers) =>
 # Title:
 # ${answers.title}
 
+${badge}
+
 # Owned By:
 ${answers.name}
 
@@ -46,6 +48,24 @@ My Email is ${answers.email}. Feel free to reach me here.`;
 inquirer
     .prompt(questions)
     .then((data) => {
+        switch(data.license) {
+          case 'MIT':
+            data.license = licenseText.mit;
+            badge = badgeIcon.mit
+            break;
+          case 'Apache':
+            data.license = licenseText.apache;
+            badge = badgeIcon.apache
+            break;
+          case 'GNU GPLv3':
+            data.license = licenseText.gnu;
+            badge = badgeIcon.gnu
+            break;
+          case 'ISC':
+            data.license = licenseText.isc;
+            badge = badgeIcon.isc
+            break;
+        }
         const filename = `Sample-README.md`;
 
         fs.writeFile(filename, generateHTML(data), (err) =>
