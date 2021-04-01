@@ -22,7 +22,7 @@ module.exports = [
 	{
 		type: 'input',
 		name: 'contribution',
-		message: 'Share instructions on how others can contribute to your project',
+		message: 'Share instructions on how others can contribute to your project.',
 	},
   {
     type: 'input',
