@@ -9,24 +9,24 @@
 * [Email](#Email)
 
 # Title:
-# shitstorm
+# ReadMe generator
 
 ## Description:
-This is THE fucking project!
+This is a project showcasing prompts on node.
 
 #Usage
-www.test.com
+https://www.google.com
 
 #Contribution Guidelines
-NO!
+I do not want others to contribute to this project at this time
 
 #Tests
-Some of the tests that I ran for this project are: I did not run any tests.
+Some of the tests that I ran for this project are: I tested this project in the node environment to make sure it ran accordingly..
 
 #License
 MIT License
 
-Copyright (c) 2021 Cas
+Copyright (c) 2021 Casandra McDonald
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -47,7 +47,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 #Github
-Please visit my Defy1x to visit my work.
+Please visit my https://www.github.com/Defy1x to visit my work.
 
 #Email
-My Email is fuckyou@fuckyou.com. Feel free to reach me here.
+My Email is cas@casmcdonald.com. Feel free to reach me here.

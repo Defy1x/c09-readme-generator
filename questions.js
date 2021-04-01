@@ -2,7 +2,7 @@ module.exports = [
 	{
 		type: 'input',
 		name: 'name',
-		message: 'What is your name?',
+		message: 'What is your first and last name?',
 	},
 	{
 		type: 'input',
@@ -12,7 +12,7 @@ module.exports = [
 	{
 		type: 'input',
 		name: 'description',
-		message: 'Share a little bit about project.',
+		message: 'Please provide a description of your project.',
 	},
   {
     type: 'input',
@@ -29,6 +29,12 @@ module.exports = [
     name: 'tests',
     message: 'Share some of the tests you ran for your project.',
   },
+	{
+	 type: 'list',
+	 name: 'license',
+	 message: 'Which license would you to use for this project?',
+	 choices: ['MIT', 'Apache', 'GNU GPLv3', 'ISC']
+ },
 	{
 		type: 'input',
 		name: 'github',
