@@ -1,7 +1,7 @@
 const fs = require("fs");
 const questions = require("./questions.js");
 const inquirer = require("inquirer");
-const licenseText = require("./license.js")
+const licenseText = require("./licenses.js")
 const badgeIcon = require("./badges.js")
 let badge;
 
