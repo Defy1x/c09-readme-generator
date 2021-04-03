@@ -43,7 +43,7 @@ THEN I am taken to the corresponding section of the README
 This homework was was not that bad and good first practice for using node js and npm packages. I am super happy to have finished this.
 
 #Links
-## Deployed Link:
+## Deployed Link (Youtube Video)
 https://www.youtube.com/watch?v=gq4hNj3itRk
 
 #Usage
