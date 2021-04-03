@@ -9,7 +9,7 @@
 * [Email](#Email)
 
 # Title:
-# Readme-Generator
+# Readme Generator
 
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 
@@ -17,16 +17,16 @@
 Casandra McDonald
 
 ## Description:
-This is the 9th homework for columbia, which generators a readme when prompted using inquirer and npm packages.
+This is the ninth week homework assignment at Columbia University Software Engineering Bootcamp which practices the principles of node js and npm packages.
 
 #Usage
-There is no deployed link at this time.
+There is no link at this time.
 
 #Contribution Guidelines
-If others want to contribute they can create a pull request.
+If people would like to contribute they can create a pull request on my github.
 
 #Tests
-Some of the tests that I ran for this project are: I tested this project thoroughly in node..
+Some of the tests that I ran for this project are: I tested this project thoroughly with node.js however I did not run any automation testing or any other TDD..
 
 #License
 MIT License

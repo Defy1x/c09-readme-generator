@@ -44,7 +44,7 @@ This homework was was not that bad and good first practice for using node js and
 
 #Links
 ## Deployed Link:
-There is no deployed link for this project
+![Here is the youtube link explaining the project](https://www.youtube.com/watch?v=gq4hNj3itRk)
 
 #Usage
 ## Final screenshot
