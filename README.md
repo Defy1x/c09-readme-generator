@@ -40,7 +40,7 @@ WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 ```
 
-This homework was was not that bad and good first practice for using node js and npm packages. I am super happy to have finished this.
+This homework was not that bad and good first practice for using node js and npm packages. I am super happy to have finished this.
 
 #Links
 ## Deployed Link (Youtube Video)
